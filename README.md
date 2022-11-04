@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bansarim
 - 👀 I’m interested in working software industry.
-- 🌱 I’m currently learning computer programming in Algonquin College. 
+- 🌱 I’m currently learning computer programming at Algonquin College. 
 - 💞️ I’m looking to collaborate on software development project.
 
 <!---
